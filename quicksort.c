@@ -7,7 +7,6 @@
 
 #include <stdio.h>
 
-void quicksort(int a[], int l, int h);
 int partition(int a[], int l, int h);
 void swap(int *x, int *y);
 

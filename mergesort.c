@@ -7,7 +7,6 @@
 
 #include <stdio.h>
 
-void mergesort(int a[], int low, int high);
 void merge(int a[], int low, int middle, int high);
 
 void mergesort(int a[], int low, int high)

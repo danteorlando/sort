@@ -7,6 +7,9 @@
 
 #include <stdio.h>
 
+void quicksort(int a[], int l, int h);
+void mergesort(int a[], int low, int high);
+
 int main()
 {
 	int i;
